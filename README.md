@@ -6,7 +6,7 @@
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [Next.js](https://nextjs.org/)
+* [Node.js](https://nodejs.org/)
 * [React.js](https://reactjs.org/)
 * [Bootstrap](https://getbootstrap.com)
 
@@ -20,7 +20,6 @@ This is an example of how to list things you need to use the software and how to
   ``` 
 # Intalltion Guide
 
-Note : The project back end has written in node.js so node must be installed in your machine
 
 Project containing two directory client and server
 client contains front end part of project and server contains backend part of project
