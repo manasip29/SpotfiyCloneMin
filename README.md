@@ -59,6 +59,18 @@ To start the react app change your directory to client
 npm start
 ```
 
+also included build version of project in build directory to start the build version you need to install below packages
+
+```
+npm install -g serve
+```
+
+to Run the build version you should change currect directory to build and use 
+
+```
+npx serve
+```
+
 
 # Screenshots
 
